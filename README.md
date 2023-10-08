@@ -1,6 +1,6 @@
 # learn-mysql
 MySQL es un sistema de gestión de bases de datos relacional ampliamente utilizado que ofrece una plataforma robusta y escalable para almacenar y administrar datos. Este repositorio está destinado a proporcionar recursos y ejemplos prácticos para aprender y mejorar tus habilidades en MySQL.
-![Logo-MYSQL](https://imgs.search.brave.com/6lHxBgRoJ7Yy405ITGS8dhRMVHPgaXtdT-l8BGSmBM8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bG9nby53aW5lL2Ev/bG9nby9NeVNRTC9N/eVNRTC1Mb2dvLndp/bmUuc3Zn.svg){width=200px}
+![Logo-MYSQL](./MySQL-logo.png)
 
 ## Ejemplos de Uso
 En este repositorio, encontrarás ejemplos de uso de MySQL que abarcan diversos temas, como:
